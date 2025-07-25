@@ -65,7 +65,7 @@ ul {
     font-weight: 600;
     font-size: 1rem;
     color: var(--light-color);
-    transition: background-color 0.2s ease, transform 0.1s ease;
+    transition: primary-color 0.2s ease, transform 0.1s ease;
 }
 
 .btn:hover {
